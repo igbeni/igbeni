@@ -76,10 +76,4 @@ Backend-focused Software Engineer (Java, Clojure, Kotlin) with 10+ years of expe
 
 ---
 
-### Extras
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=igbeni)](https://git.io/streak-stats)
-[![Igbeni's GitHub stats](https://github-readme-stats.vercel.app/api?username=igbeni)](https://github.com/anuraghazra/github-readme-stats)
-
-
 Thanks for stopping by — and if you’re building something ambitious in fintech or developer platforms, I’m always happy to connect.
