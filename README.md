@@ -1,20 +1,21 @@
 # Iggor Alves
 
-Backend-focused Software Engineer (Java, Clojure, Kotlin) with 10+ years of experience. I design, build, and operate resilient services—end‑to‑end—from product discovery to production reliability.
+Backend-focused Software Engineer (Java, Clojure, Kotlin) with 10+ years of experience turning complex fintech requirements into reliable, developer-friendly systems.
 
-- Currently building fintech systems at [QuintoAndar](https://www.quintoandar.com.br), focusing on payments, credit, and risk.
-- Comfortable across the stack: from backend and data pipelines to cloud, CI/CD, and a bit of frontend when it helps the mission.
-- Pragmatic by default: prefer clear designs, simple APIs, strong tests, and excellent observability.
+- Currently building fintech systems at [Nubank](https://nubank.com.br), with emphasis on reliability, scalability, and engineering excellence.
+- Previously at [QuintoAndar](https://www.quintoandar.com.br).
+- Comfortable across the stack: backend services, data pipelines, cloud infrastructure, and delivery tooling.
+- I value clear architecture, simple APIs, strong tests, and practical observability.
 
 ---
 
 ### What I do
 
 - Design and implement distributed systems and event-driven architectures
-- Model domains with DDD and ship evolvable APIs
-- Improve performance (profiling, JVM tuning, caching, indexing) and reliability (SLOs, incident response)
-- Build robust pipelines and developer tooling (CI/CD, testcontainers, ephemeral envs)
-- Apply solid security practices for fintech workloads
+- Model domains with DDD and build evolvable APIs
+- Improve throughput and reliability with profiling, JVM tuning, caching, and SLO-driven operations
+- Build robust delivery pipelines and dev tooling (CI/CD, testcontainers, ephemeral environments)
+- Strengthen engineering culture through documentation, reviews, and knowledge sharing
 
 ---
 
@@ -42,20 +43,20 @@ Backend-focused Software Engineer (Java, Clojure, Kotlin) with 10+ years of expe
 
 ### Principles I work by
 
-- Keep systems observable: metrics, traces, logs first-class
-- Prefer boring tech for critical paths; innovate where it pays off
-- Small, frequent releases with strong tests > big-bang launches
-- Clear ownership, helpful runbooks, and humane on-call
-- Code is for people first—clarity beats cleverness
+- Keep systems observable: metrics, traces, and logs are first-class
+- Prefer proven tech on critical paths; innovate where it creates clear value
+- Favor small, frequent releases with strong tests over big-bang launches
+- Build clear ownership, useful runbooks, and humane on-call practices
+- Optimize for team readability and maintainability, not cleverness
 
 ---
 
 ### Recent focus
 
-- High-throughput services for payments and credit decisioning
-- Event-driven workflows with strong idempotency and exactly-once semantics where it matters
-- Data quality, schema evolution, and safe migrations
-- Platform foundations: CI speed, test reliability, and DX
+- High-throughput backend services for financial workflows
+- Event-driven workflows with strong idempotency and well-defined failure handling
+- Data quality, schema evolution, and safe migration practices
+- Platform foundations: faster CI, more reliable tests, and better developer experience
 
 ---
 
@@ -63,17 +64,18 @@ Backend-focused Software Engineer (Java, Clojure, Kotlin) with 10+ years of expe
 
 - JVM performance, GC, and profiling in production
 - Event orchestration vs. choreography, Sagas, and outbox patterns
-- API design (REST/HTTP), backward compatibility, and versioning
+- API design, backward compatibility, and versioning strategy
 - Observability with SLOs and practical incident analysis
 - Clojure in production: simplicity, REPL-driven dev, and interop
+- Collaboration patterns that help teams move faster with confidence
 
 ---
 
 ### Get in touch
 
-- Say hello on LinkedIn • [Connect here](https://www.linkedin.com/in/iggor-alves/) <!-- Replace with your actual profile URL -->
-- Or open a discussion in this repo if you want to chat about systems design or fintech
+- Say hello on LinkedIn • [Connect here](https://www.linkedin.com/in/iggor-alves/) 
+- Or open a discussion in this repo if you want to talk about backend architecture, fintech engineering, or career growth in software
 
 ---
 
-Thanks for stopping by — and if you’re building something ambitious in fintech or developer platforms, I’m always happy to connect.
+Thanks for stopping by. If you are building ambitious systems and want to exchange ideas on reliability, architecture, or developer experience, I would be glad to connect.
